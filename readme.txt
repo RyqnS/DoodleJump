@@ -14,4 +14,4 @@ used (not including random). Run doodleJumpCracked.py to start.
 
 Additional Note: We initialy intended to add our own drawings to 
 the game, but due to some constraints of the cmu graphics package we 
-were unable to. These pngs have been included as files.
+were unable to. These images have been included as png files.
